@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "435154044067",
+    "project_id": "mrshacker-a35a6",
+    "storage_bucket": "mrshacker-a35a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435154044067:android:e8c3755a2f2757cef36b16",
+        "android_client_info": {
+          "package_name": "com.example.yusra_cat03"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFueeW5j_rNUvrSIDPa_KxmxJVD_G6QgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
